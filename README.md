@@ -1,5 +1,3 @@
-supabase project password: web102project7
-
 # Web Development Project 7 - _Crewmates_
 
 Submitted by: **Susana**
