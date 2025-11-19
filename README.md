@@ -1,6 +1,6 @@
 # Web Development Project 7 - _Crewmates_
 
-Submitted by: **Susana**
+Submitted by: **Susana Espino-Garcia**
 
 This web app: **Creates a new crewmate and adds the new crewmate into the supabase table. We are able to edit and delete them.**
 
