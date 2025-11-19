@@ -1,0 +1,38 @@
+.detail-container {
+  min-height: 100vh;
+  padding: 40px;
+  color: #fff;
+  background: linear-gradient(180deg, #0c0c1e, #090914);
+}
+
+.detail-content {
+  max-width: 500px;
+  margin: 0 auto;
+  background: rgba(25, 25, 55, 0.7);
+  padding: 30px;
+  border-radius: 20px;
+  backdrop-filter: blur(4px);
+  box-shadow: 0 0 25px rgba(160, 160, 255, 0.4);
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(160, 160, 255, 0.2);
+}
+
+.edit-btn {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 12px 20px;
+  border-radius: 12px;
+  background: linear-gradient(90deg, #5f5fff, #c05fff);
+  color: white;
+  text-decoration: none;
+  transition: transform 0.25s ease;
+}
+
+.edit-btn:hover {
+  transform: scale(1.05);
+}

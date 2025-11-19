@@ -1,0 +1,51 @@
+.edit-container {
+  min-height: 100vh;
+  padding: 40px;
+  background: radial-gradient(circle at top, #1a1a3e, #080812 80%);
+  color: white;
+}
+
+.edit-content {
+  max-width: 600px;
+  margin: 0 auto;
+  background: rgba(20, 20, 50, 0.75);
+  padding: 30px;
+  border-radius: 18px;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 0 20px rgba(120, 120, 255, 0.4);
+}
+
+.edit-form input,
+.edit-form select {
+  background: rgba(10, 10, 30, 0.85);
+  border: 1px solid #6e6eff;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+  font-size: 1em;
+}
+.edit-form label{
+    font-size: 1.2em;
+}
+
+.update-btn,
+.delete-btn {
+  width: 100%;
+  padding: 14px;
+  margin-top: 20px;
+  border-radius: 14px;
+  font-size: 18px;
+  cursor: pointer;
+  border: none;
+}
+
+.update-btn {
+  background: linear-gradient(90deg, #5353ff, #9b4cff);
+  color: white;
+}
+
+.delete-btn {
+  background: linear-gradient(90deg, #ff4f70, #ff2d2d);
+  color: white;
+}

@@ -1,0 +1,1 @@
+supabase project password: web102project7
